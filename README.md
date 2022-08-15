@@ -12,7 +12,7 @@
 > This website was used for getting fake products and axios was used for http Requests.
 
 ## Visit Project online :
-- 
+- https://shop-cart-redux-liart.vercel.app
 
 ## In the project directory, you can run:
 
